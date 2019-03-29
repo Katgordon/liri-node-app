@@ -34,4 +34,6 @@ Liri.js can take in one of the following commands:
     
     If the user types in 'do-what-it-says', then LIRI will choose one of her functions to display.
 
+    video showing it: https://drive.google.com/file/d/1_S0Lh1YzHNyV19Bhx6ToF6108xywauLI/view
+
 
